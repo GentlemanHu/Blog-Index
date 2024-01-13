@@ -146,7 +146,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: null,
+  LOGO_URL: "https://raw.githubusercontent.com/GentlemanHu/GentlemanHu.github.io/f749d825f1f18a014803b0bb77c40e22016b18c0/img/favicon.png",
   /**
    * 个人 Github 链接
    */
