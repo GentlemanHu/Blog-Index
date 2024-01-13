@@ -131,7 +131,21 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
       description: "Gitbook",
       url: "https://docs.crushing.xyz",
       icon: "https://img.icons8.com/nolan/128/google-docs.png"
-    }
+    },
+    {
+      sortId: 2,
+      title: "One api",
+      description: "oneapi",
+      url: "https://oneapi.crushing.xyz",
+      icon: "https://img.icons8.com/nolan/96/speed.png"
+    },
+    {
+      sortId: 2,
+      title: "发卡",
+      description: "faka",
+      url: "https://gift.crushing.xyz",
+      icon: "https://img.icons8.com/nolan/96/speed.png"
+    },
   ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
 const GLOBAL_CONFIG = {
